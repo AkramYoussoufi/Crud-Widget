@@ -1,0 +1,29 @@
+.actionRow button {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+caption button {
+  background-color: lightgreen;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.lexicon-icon-order-arrow-left {
+  background-color: lightblue;
+}
+
+.actionRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
